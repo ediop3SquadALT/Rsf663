@@ -78,4 +78,10 @@ rsf663 (192.168.1.248:huawei_hg532_rce) >
    ![1000027728](https://github.com/user-attachments/assets/5863563d-1af0-4795-b907-0af523a13831)
 
 
+
+brands / modules
+
+
+![1000026924](https://github.com/user-attachments/assets/eff47cdd-cdf2-403d-b20c-979ce6d20c26)
+
    

@@ -15,8 +15,8 @@
 - ✍️ Fully scriptable for red teaming automation  
 - 💻 Works on Kali, parrot OS, nethunter terminal
 
----
-<img src="https://imgur.com/a/VNgc1Lg" width="300">
+---![1000026848](https://github.com/user-attachments/assets/cb180bbe-949a-4f95-a15f-e72d19a22d47)
+
 
 
 # PLEASE NOTE THAT MOST OF THE MODULES ARE BLIND.
@@ -34,6 +34,7 @@ sudo bash rsf663.sh
 ```
 
 # Example usage
+
  ```
 rsf663 > show modules
 rsf663 > use huawei_hg532_rce
@@ -53,3 +54,4 @@ rsf663 (192.168.1.248:huawei_hg532_rce) > run
 rsf663 (192.168.1.248:huawei_hg532_rce) >
 ```
 
+![1000027727](https://github.com/user-attachments/assets/be4bec17-b81c-4611-8e7d-4910d7a9ac17)

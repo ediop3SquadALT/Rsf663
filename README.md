@@ -16,6 +16,8 @@
 - 💻 Works on Kali, parrot OS, nethunter terminal
 
 ---
+<img src="https://imgur.com/a/VNgc1Lg.png" width="300">
+
 
 # PLEASE NOTE THAT MOST OF THE MODULES ARE BLIND.
 

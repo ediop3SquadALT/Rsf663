@@ -55,3 +55,27 @@ rsf663 (192.168.1.248:huawei_hg532_rce) >
 ```
 
 ![1000027727](https://github.com/user-attachments/assets/be4bec17-b81c-4611-8e7d-4910d7a9ac17)
+
+
+# search query example. 
+
+ - note: It's better to use ```Show modules.```
+ - because search tplink is broken
+ - it just returns autopwn
+
+   ```
+   rsf663 > search huawei
+   Search results for 'huawei':
+   autopwn
+   huawei_e5331_info_disclosure
+   huawei_hg520_udp_info_disclosure
+   huawei_hg530_hg520b_password_disclosure
+   huawei_hg532_rce
+   huawei_hg866_password_change
+
+   rsf663 >
+   ```
+   ![1000027728](https://github.com/user-attachments/assets/5863563d-1af0-4795-b907-0af523a13831)
+
+
+   

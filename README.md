@@ -10,10 +10,10 @@
 - 📜 **103+ Exploit Modules** included (command exec, backdoors, misconfigs, info leaks)
 - 🧠 **Intelligent Search & Targeting**  
 - 🗃️ Built-in **wordlist support** (auto-detected per module)  
-- ⚙️ Interactive CLI with `use`, `info`, `options`, `run` workflow  
+- ⚙️ Interactive CLI with `use`, `info`, `options`, `run` workflow , etc
 - 🧪 Supports *blind* injections with clear output warnings  
 - ✍️ Fully scriptable for red teaming automation  
-- 💻 Works on Kali, NetHunter, Ubuntu, Termux, or standalone Python3
+- 💻 Works on Kali, parrot OS, nethunter terminal
 
 ---
 

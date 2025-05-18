@@ -7,7 +7,7 @@
 ## 🚀 Features
 
 - 🔎 **Automatic Module Discovery**  
-- 📜 **103+ Exploit Modules** included (command exec, backdoors, misconfigs, info leaks)
+- 📜 **106+ Exploit Modules** included (command exec, backdoors, misconfigs, info leaks)
 - 🧠 **Intelligent Search & Targeting**  
 - 🗃️ Built-in **wordlist support** (auto-detected per module)  
 - ⚙️ Interactive CLI with `use`, `info`, `options`, `run` workflow , etc
@@ -19,7 +19,7 @@
 
 
 
-# PLEASE NOTE THAT MOST OF THE MODULES ARE BLIND.
+ ***PLEASE NOTE THAT MOST OF THE MODULES ARE BLIND.***
 
 ## 🧰 Installation
 
